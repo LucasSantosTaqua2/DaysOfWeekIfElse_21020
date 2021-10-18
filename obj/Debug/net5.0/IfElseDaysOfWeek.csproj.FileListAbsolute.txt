@@ -1,0 +1,16 @@
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\bin\Debug\net5.0\IfElseDaysOfWeek.exe
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\bin\Debug\net5.0\IfElseDaysOfWeek.deps.json
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\bin\Debug\net5.0\IfElseDaysOfWeek.runtimeconfig.json
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\bin\Debug\net5.0\IfElseDaysOfWeek.runtimeconfig.dev.json
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\bin\Debug\net5.0\IfElseDaysOfWeek.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\bin\Debug\net5.0\ref\IfElseDaysOfWeek.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\bin\Debug\net5.0\IfElseDaysOfWeek.pdb
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\obj\Debug\net5.0\IfElseDaysOfWeek.csproj.AssemblyReference.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\obj\Debug\net5.0\IfElseDaysOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\obj\Debug\net5.0\IfElseDaysOfWeek.AssemblyInfoInputs.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\obj\Debug\net5.0\IfElseDaysOfWeek.AssemblyInfo.cs
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\obj\Debug\net5.0\IfElseDaysOfWeek.csproj.CoreCompileInputs.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\obj\Debug\net5.0\IfElseDaysOfWeek.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\obj\Debug\net5.0\ref\IfElseDaysOfWeek.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\obj\Debug\net5.0\IfElseDaysOfWeek.pdb
+E:\Projetos\ams\1_ano\SEMESTRE2\IfElseDaysOfWeek\obj\Debug\net5.0\IfElseDaysOfWeek.genruntimeconfig.cache
